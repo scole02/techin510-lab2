@@ -15,6 +15,8 @@ streamlit run app.py
 
 ## Lessons Learned
 
+I learned how to add streamlit widgets to my app that allow for user interaction with the dataset
+
 ## Questions
 
 ## TODO
